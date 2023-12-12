@@ -2,4 +2,4 @@
 
 This repository contains the Jupyter Notebook for building the TargetMartII data mart.
 
-!Image
+![Image](images/DDL.drawio.png)
